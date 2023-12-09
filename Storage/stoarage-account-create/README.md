@@ -1,0 +1,1 @@
+![Deploy to Azure](https://aka.ms/deploytoazurebutton) https://github.com/GdNCoder/Azure_ResourceDeploy/Storage/storage-account-create/azuredeploy.json
