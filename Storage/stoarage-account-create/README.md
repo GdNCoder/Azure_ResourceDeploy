@@ -1,1 +1,1 @@
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGdNCoder%2FAzure_ResourceDeploy%2Fmain%2FStorage%2Fstoarage-account-create%2Fazuredeploy.json)
+![Deploy to Azure](https://aka.ms/deploytoazurebutton) https://github.com/GdNCoder/Azure_ResourceDeploy/Storage/storage-account-create/azuredeploy.json
